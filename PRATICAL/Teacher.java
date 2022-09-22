@@ -17,6 +17,9 @@ d.display();
 d.teach();
 }
 }
-
+//output
+//& java Teacher
+//I am Mathmatics  : Teacher
+//teaches mathmatics
 
 
