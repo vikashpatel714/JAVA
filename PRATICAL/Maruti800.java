@@ -43,3 +43,12 @@ class Car{
          obj.speed();
        }
     }
+
+//output-
+// && java Maruti800
+//Class Car
+//Class Maruti
+//Maruti Model: 800
+//Vehicle Type: Car
+//Brand: Maruti
+//Max: 80Kmph
