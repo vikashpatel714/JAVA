@@ -8,3 +8,5 @@ abstract class Bike{
    obj.run();  
   }  
   }  
+  //output
+  //safely
