@@ -13,3 +13,6 @@ class Vehicle{
     obj.run();  
     }  
   }  
+ // output
+ //RATICAL\DAY3\Overriding\" && javac Bike.java && java Bike
+//Vehicle is running
