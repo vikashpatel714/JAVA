@@ -12,3 +12,8 @@ public class Test1 {
         System.out.println(acc.getAcc_no()+" "+acc.getName()+" "+acc.getEmail()+" "+acc.getAmount());  
     }  
     }  
+//  // output-
+   //36630201
+   // Patil
+   // Vikashpatel.vns2000@gmail.com 
+   //900000.0
