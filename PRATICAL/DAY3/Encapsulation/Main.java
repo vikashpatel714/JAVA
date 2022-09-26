@@ -26,3 +26,5 @@ class Area {
       rectangle.getArea();
     }
   }
+//output
+//Area: 72
