@@ -27,3 +27,5 @@ class Person {
       System.out.println("My age is " + p1.getAge());
     }
   }
+  //output-
+  //My age is 24
