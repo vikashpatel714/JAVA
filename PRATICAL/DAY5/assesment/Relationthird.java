@@ -1,3 +1,4 @@
+//Que2)relation  operation with three variables(Take the input from the user)
 public class Relational {
 
 	public static void main(String[] args) {
