@@ -1,3 +1,4 @@
+//Que2)Arithemetic  operation with three variables(initializing variables)
 class Multhird {
     public static void main(String[] args)
     {
