@@ -1,3 +1,4 @@
+//Que2)relation  operation with three variables(initializing variables)
 class Third {
  
     // Main driver method
