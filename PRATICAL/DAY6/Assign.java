@@ -33,6 +33,7 @@ public class Assign {
            System.out.println("b = " + b);	
 		}
 }
+//output
 //enter first number
 //8
 //enter second number
