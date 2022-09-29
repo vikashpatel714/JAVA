@@ -27,6 +27,7 @@ public class LargestNumber {
 	      System.out.println("\nLargest = " +largest);
 	   }
 	}
-//outputEnter the First Number: 8
-//Enter the Second Number: 
-//3
+//output
+//Enter the First Number: 30
+//Enter the Second Number: 70
+//Largest = 70
